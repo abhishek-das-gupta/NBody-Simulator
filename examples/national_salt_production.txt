@@ -100,4 +100,4 @@
 90 Mongolia 2461 0
 91 Niger 1300 0
 92 Somalia 1000 0
-93 Mauritania 700 0
+93 Mauritania 700 0//
